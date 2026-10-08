@@ -1,4 +1,4 @@
-👋 Hi, I’m Reuben Sherry (@rsherry1207)
+👋 Hi, I’m Reuben Sherry (@rsherry1207) |
    I'm a Mechanical Engineer @ Georgia Tech, but I like to code on the side :)
 
 <!---
